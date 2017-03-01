@@ -1,9 +1,11 @@
 <resources>
     <string name="app_name">TFL</string>
-    <string name="c_name">Torque Fashions Ltd.</string>
-    <string name="c_desc">Maintaining the compliance as per requirement of European buyers (Accord), Factory is YELLOW standard.The Bangladeshi clothing manufacture’s share of global market are steadily growing in the wake of success of the Ready-made garments sector, Torque Fashions Ltd. is also willing to compete in the global market to provide best quality woven products to the buyers and achieve it’s desired goal. </string>
+    <string name="comp_name">Torque Fashions Ltd.</string>
+    <string name="comp_desc">Maintaining the compliance as per requirement of European buyers (Accord), Factory is YELLOW standard.The Bangladeshi clothing manufacture’s share of global market are steadily growing in the wake of success of the Ready-made garments sector, Torque Fashions Ltd. is also willing to compete in the global market to provide best quality woven products to the buyers and achieve it’s desired goal. </string>
+    <string name="our_p">Our Products:</string>
     <string name="chino_pant">Chino Pants</string>
     <string name="b_five_pkt">Basic Five Pocket</string>
+    <string name="con_us">Contact Us</string>
     <string name="web">Web: www.torquebd.com</string>
     <string name="contact_email">Email: info@torquebd.com</string>
     <string name="contact_phone">Phone: +880 2-7913957</string>
