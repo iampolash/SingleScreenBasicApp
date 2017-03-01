@@ -3,7 +3,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="#CFD8DC">
 
 <RelativeLayout
     android:layout_width="match_parent"
@@ -33,8 +34,7 @@
         android:id="@+id/relativelayout2"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_below="@id/company_name"
-        android:background="#CFD8DC">
+        android:layout_below="@id/company_name">
 
         <TextView
             android:id="@+id/desc"
